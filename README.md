@@ -2,10 +2,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihernandez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
@@ -19,3 +15,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/phantomramen
 [2]: https://www.linkedin.com/in/ali-hernandez-96b1b71a9/
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
