@@ -19,4 +19,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
