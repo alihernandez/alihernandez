@@ -17,5 +17,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [2]: https://www.linkedin.com/in/ali-hernandez-96b1b71a9/
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
