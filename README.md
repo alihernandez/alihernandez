@@ -18,6 +18,8 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 July, 2021 - 25 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
