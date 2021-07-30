@@ -18,12 +18,12 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2021 - 28 July, 2021
+Week: 23 July, 2021 - 29 July, 2021
 
-JavaScript   10 hrs 28 mins  ████████████████████▒░░░░   81.50 % 
-JSON         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript   10 hrs 30 mins  ████████████████████▒░░░░   81.56 % 
+JSON         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
