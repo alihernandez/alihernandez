@@ -18,7 +18,7 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 JavaScript   48 mins         ████████████████▓░░░░░░░░   66.81 % 
 HTML         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
