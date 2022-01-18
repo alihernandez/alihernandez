@@ -18,12 +18,12 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-JavaScript   7 hrs 15 mins   ██████████████████░░░░░░░   71.99 % 
-CSS          1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-TypeScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript   12 hrs 12 mins  ████████████████▒░░░░░░░░   65.17 % 
+CSS          5 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.70 % 
+TypeScript   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
