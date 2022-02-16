@@ -18,7 +18,9 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 1 hr 2 mins
 
 JavaScript   55 mins         ██████████████████████▒░░   89.04 % 
 Markdown     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
