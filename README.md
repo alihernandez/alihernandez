@@ -17,13 +17,12 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/ali-hernandez-96b1b71a9/
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-JavaScript   8 hrs 19 mins   ████████████████████████░   95.91 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   4 hrs 35 mins   █████████████████████████   99.71 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
+
 <!--END_SECTION:waka-->
