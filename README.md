@@ -19,7 +19,7 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
 JavaScript   6 hrs 8 mins    █████████████▓░░░░░░░░░░░   55.26 %
 CSS          3 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
