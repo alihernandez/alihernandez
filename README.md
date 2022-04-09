@@ -19,14 +19,14 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-JavaScript   6 hrs 8 mins    █████████████▓░░░░░░░░░░░   55.26 %
-CSS          3 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
-HTML         1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   5 hrs 46 mins   █████████████▒░░░░░░░░░░░   53.97 %
+CSS          3 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.43 %
+HTML         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
