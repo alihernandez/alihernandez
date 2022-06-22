@@ -2,6 +2,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihernandez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
