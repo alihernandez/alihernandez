@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on, [![LinkedIn][2.2]][2].
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-JavaScript   1 hr 18 mins    █████████████████████░░░░   84.60 %
+JavaScript   1 hr 18 mins    █████████████████████░░░░   84.54 %
 Markdown     10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
